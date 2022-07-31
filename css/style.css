@@ -5,8 +5,8 @@ html, body {
   min-height: 100%;
 }
 
-body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+body { background-color: blue;
+
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
